@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@stomp/stompjs": "^7.0.0",
+    "sockjs-client": "^1.6.1"
+  }
+}
